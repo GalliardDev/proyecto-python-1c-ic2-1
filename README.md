@@ -1,5 +1,5 @@
 # Proyecto del Primer Cuatrimestre Fundamentos de Programación (Curso  22/23)
-Autor/a: José Manuel Amador Gallardo &nbsp;&nbsp;&nbsp;UVUS:SMT4497<br>
+Autor/a: José Manuel Amador Gallardo &nbsp;&nbsp;&nbsp;UVUS:XXXNNNN<br>
 
 El dataset es una información sobre la empresa de alquiler de bicicletas, Capital Bikeshare en Washington D.C. durante los años 2011/2012. Consta de 16 columnas de las cuales una es de tipo fecha y el resto varía entre *int*, *float* y *bool*.
 
